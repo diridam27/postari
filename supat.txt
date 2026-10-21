@@ -1,5 +1,5 @@
 # Supat
-
+<ro>
 S-a făcut mare vâlvă ieri în jurul cuvântului nou-nouț din limba română, după ce academicienii lui pește prăjit au dat cu tot lexiconul de pământ inventând cuvântul „supat”.
 
 Mulți oameni sunt de părere că fiecare adiție a unui cuvânt „vulgarizat” în DOOM este o tâmpenie - se „acceptă forma greșită”.
@@ -37,3 +37,6 @@ Aici nici măcar nu e vorba de „mulți oameni scriau «supat» în loc de «su
 * De dedesubt (na).
 
 Dintre toți antisupații dacă le-ai însuma mânia pe care o resimt pe acest subiect, n-ar egala ura mea prosupată față de prescriptivismul lingvistic și ștergerea cu buretele a unui dialect pentru că „vai, pentru urechile mele din Drumul Taberei, București nu sună corect!” și pentru Dicție.ro pentru că nu verifică ce postează înainte.
+</ro>
+<en>
+</en>
