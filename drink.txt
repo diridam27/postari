@@ -1,0 +1,20 @@
+{{limbi}} {{tumblr}} {{favs}}
+<ro>
+# Drink
+
+O nouă zi, un nou cuvânt pe care tanti de la Dictie.ro încearcă să îl beștelească.
+
+Înspre sfârșit, spune că, pe lângă „drink”, există și verbul “a drincui”, care apare „într-un dicționar de argou” și despre care menționează că se scrie cu „c”, nu cu „k“.
+
+Acum, înțeleg că nu toată lumea are două rafturi de dicționare acasă, iar pentru o publicație precum Dictie.ro un dicționar fizic reprezintă o investiție prea mare pentru a fi justificată și că doar caută pe dexonline definițiile.
+
+Nici nu m-ar mira să fi descărcat datele de pe wikitionary sau ale altui dicționar public și să fi automatizat căutarea cuvintelor din română la a căror etimologie este menționat “din limba engleză” — ar putea ieși postările de genul pe bandă rulantă.
+
+Însă în ediția din 2020 a dicționarului de argou al lui George Volceanov apare și „drinkui”, în varianta cu „k“. Ce folosește dexonline la categoria de „argou“ este ediția din 2007 (eu le am pe ambele, sunt unele dintre dicționarele mele preferate)
+
+Și totuși, banda rulantă ca banda rulantă, dar dicționarul de ARGOU?? Sunt atâția termeni hazlii care sunt evident glume (ba chiar au și notația „(Glum.)”) încât nici nu are sens să fie menționate într-o astfel de postare. Există peste 120 de cuvinte în dicționarul ăla doar pentru „penis”.
+
+Ca întotdeauna, sunt de părere că e justificat ca un dicționar să includă cuvintele astea două. 
+
+Și oricum cuvintele rare din dicționare sunt folosite… rar. Dacă ai lua toate cuvintele din dicționar (eu am o listă pe care o folosesc când programez ceva legat de limba română care are 282610 cuvinte) și le-ai ordona în ordinea folosirii lor, cel de la mijloc (141305), [ar reprezenta decat 1/141305 din limba vorbită](https://en.wikipedia.org/wiki/Zipf%27s_law), deci ar apărea cam de 5-6 ori într-o biblie.
+</ro>
