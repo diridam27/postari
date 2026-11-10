@@ -1,0 +1,6 @@
+{{meta}}
+# Meta-Diri
+
+Acesta este un articol menit să explice cum funcționează site-ul.
+Mai întâi, site-ul este făcut cu HTML și CSS minimal, nu are efecte speciale și brizbrizuri, atât pentru simplitate și reliability, cât și pentru că nu știu să fac site-uri „profesionale”. Comparați site-ul cu unul de la o pizzerie locală din orașul vostru și ziceți voi de al meu nu e mai robust.
+
