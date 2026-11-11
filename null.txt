@@ -1,0 +1,7 @@
+11XI26 {{test}}
+<ro>
+Această pagină ține locul paginii principale în scopul de a testa funcționalitatea site-ului
+</ro>
+<en>
+This page is a placeholder for the main page of the website meant to test the functionality of the website
+</en>
