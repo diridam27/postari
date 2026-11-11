@@ -11,8 +11,7 @@ Adică, dacă mâine s-ar băga „genoflexiune” în DOOM pentru că nimeni nu
 
 Clipul care a stârnit reacții în legătură cu „supat” a fost cel de la Dicție.ro, postat ieri:
 
-
-„Pisica s-a ascuns supat. Nu «sub pat» și «supat». Avem un nou substantiv în limba română conform DOOM3 și acesta este «supat». La plural este «supaturi», la singular «supat». Este un substantiv neutru conform DOOM3 și reprezintă patul dintre pat și dușumea. Așadar putem spune în mod corect «Pisica s-a ascuns supat» și nimeni nu o să spună că n-avem dicție și nu putem să-l spunem corect pe B final.”
+„Pisica s-a ascuns supat. Nu «sub pat», ci «supat». Avem un nou substantiv în limba română conform DOOM3 și acesta este «supat». La plural este «supaturi», la singular «supat». Este un substantiv neutru conform DOOM3 și reprezintă spațiul dintre pat și dușumea. Așadar putem spune în mod corect «Pisica s-a ascuns supat» și nimeni nu o să spună că n-avem dicție și nu putem să-l spunem corect pe B final.”
 
 Lumea a sărit pe dexonline imediat, cuvântul „supat” are 18.832 de căutări ieri, cam de patruzeci și două de ori mai multe decât locul doi (care e, din ceva motiv, „albastru”).
 
@@ -40,4 +39,37 @@ Aici nici măcar nu e vorba de „mulți oameni scriau «supat» în loc de «su
 Dintre toți antisupații dacă le-ai însuma mânia pe care o resimt pe acest subiect, n-ar egala ura mea prosupată față de prescriptivismul lingvistic și ștergerea cu buretele a unui dialect pentru că „vai, pentru urechile mele din Drumul Taberei, București nu sună corect!” și pentru Dicție.ro pentru că nu verifică ce postează înainte.
 </ro>
 <en>
+A big stir was recently stirred regarding the brand new Romanian word after the fly-by-night Romanian academicians threw a monkey wrench into the whole lexicon by inventing the term "supat".
+
+A lot of people are of the opinion that each addition of a vulgarized word into the *DOOM* (the Orthoepical, Ortographic and Morphological Dictionary) is nonsensical - the "wrong form is being accepted".
+
+But that is not even the case here. Prescriptive linguistics are dumb as they are, as was concluded in the disproportionately lengthy and rather irrelevant rant which I decided to leave out from this post in the end.
+
+What I mean by that is that if tomorrow, the word "*genoflexiune*" (squat) would get added into the *DOOM* because no one calls it a "*genuflexiune*" or "*eclere*" (eclairs) as an accepted plural form of "*ecler*", the *DOOM* would fulfill its  very purpose, although some are maddened by this affair too, as if until a term isn't officially included in the *DOOM* everyone is mistaken except for them, the enlightened who know the correct form. (akin to the way Wile E Coyote doesn't fall unless he looks down).
+
+The clip that provoked this chain of responses about "*supat*" was the one posted yesterday by Dicție.ro:
+
+"The cat is hiding *supat*. Not *sub pat* (n.tr. under the bed), but *supat*. We have a new noun in Romanian according to *DOOM3* and that is «*supat*». Its plural form is «*supaturi*» and the singular one is «*supat*». It is a neuter gendered noun according to *DOOM3* and it represents the space in between the bed and the floor. Therefore, we can correctly say «The cat is hiding *supat*» and no one can can say we lack good diction and cannot properly pronounce the final B.”
+
+People immediately jumped over to dexonline (a Romanian dictionary curator), "*supat*" has been looked up 18,832 times yesterday, about forty times more than the runner up (which was, for some reason, "*albastru*" - the color blue).
+
+What we have here isn't even a case of "a large amount of people were incorrectly writing «*supat*» instead of «*sub pat*» as they were unaware of it's orthography and that's the way they sounded it out". I'm under the impression that that's what most people on the internet assumed when they ran to comment stuff along the lines of:
+
+> These dumbasses are making a mockery out of the Romanian language!
+> This is the language of the lazy and no one will say anything were you to miss a few letters.
+> I cannot believe this stuff, get this "*supat*", we wound up transforming the illiteracy of some into gramatical rule... we are all right
+> God! You are astonishd and you pray not to end up "*supat*" (the original comment was misspelled -TN)
+
+Firstly, if you actually look in a dictionary, you'll usually see a tiny "*Reg.*" next to regionalisms. There are even such things as dialect dictionaries, such as this "Oltenia speech" one I have (I'm from Oltenia). Have you not heard of "*supat*", you probably don't live in a place where it's used (I'm not exactly sure where this foreign land is situated, I have found in an article titled "short glossary of crihanisms" that it is allegedly used in Crihana Veche, Basarabia).
+
+Secondly, the Dicție.ro lady didn't even use the word as it's presented in the dictionary. She herself said that it is a neuter gender noun, then proceeded to use it as an adverb. As Vasile from Utopia Balcanica put it in his latest webcomic, "*supat*" is the same shit as "*subraț*" (armpit). You don't say "*Am pădure subraț*", ("I have armpit forests") but "*Am pădure la subraț*" ("I have forests at my armpits") - your pits are nouns. (As apparent from the example given, in English they can be adjectives -TN)
+
+Also, the lexical family of the word "sub" (under) is incestuous and moronic anyway.
+* "Subtus" from Latin becomes "subt"
+* Desubt (de + subt)
+* Dedesubt (de + desubt)
+* De dedesubt (you get the point)
+All of these words mean "under".
+
+Were you to sum up the hatred of all the *antisupats* regarding this subject you'd still be unable to match my own *prosupated* hatred for prescriptive linguistics and the erasure of dialects it causes because "Gosh! This doesn't sound right to my ears from Drumul Taberei, Bucharest!" and for Dicție.ro for not fact checking what they post beforehand.
 </en>
