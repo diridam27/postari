@@ -39,7 +39,11 @@ Aici nici măcar nu e vorba de „mulți oameni scriau «supat» în loc de «su
 Dintre toți antisupații dacă le-ai însuma mânia pe care o resimt pe acest subiect, n-ar egala ura mea prosupată față de prescriptivismul lingvistic și ștergerea cu buretele a unui dialect pentru că „vai, pentru urechile mele din Drumul Taberei, București nu sună corect!” și pentru Dicție.ro pentru că nu verifică ce postează înainte.
 </ro>
 <en>
+# Supat
+
 A big stir was recently stirred regarding the brand new Romanian word after the fly-by-night Romanian academicians threw a monkey wrench into the whole lexicon by inventing the term "supat".
+
+(In Romanian "*sub pat*" means "under the bed" and is pronounced simmilarly to "supat" -TN)
 
 A lot of people are of the opinion that each addition of a vulgarized word into the *DOOM* (the Orthoepical, Ortographic and Morphological Dictionary) is nonsensical - the "wrong form is being accepted".
 
@@ -49,7 +53,7 @@ What I mean by that is that if tomorrow, the word "*genoflexiune*" (squat) would
 
 The clip that provoked this chain of responses about "*supat*" was the one posted yesterday by Dicție.ro:
 
-"The cat is hiding *supat*. Not *sub pat* (n.tr. under the bed), but *supat*. We have a new noun in Romanian according to *DOOM3* and that is «*supat*». Its plural form is «*supaturi*» and the singular one is «*supat*». It is a neuter gendered noun according to *DOOM3* and it represents the space in between the bed and the floor. Therefore, we can correctly say «The cat is hiding *supat*» and no one can can say we lack good diction and cannot properly pronounce the final B.”
+"The cat is hiding *supat*. Not *sub pat* (under the bed), but *supat*. We have a new noun in Romanian according to *DOOM3* and that is «*supat*». Its plural form is «*supaturi*» and the singular one is «*supat*». It is a neuter gendered noun according to *DOOM3* and it represents the space in between the bed and the floor. Therefore, we can correctly say «The cat is hiding *supat*» and no one can can say we lack good diction and cannot properly pronounce the final B.”
 
 People immediately jumped over to dexonline (a Romanian dictionary curator), "*supat*" has been looked up 18,832 times yesterday, about forty times more than the runner up (which was, for some reason, "*albastru*" - the color blue).
 
