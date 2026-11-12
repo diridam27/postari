@@ -1,7 +1,34 @@
-11XI26 {{test}}
+10X24 {{yt}}{{favs}} chap Plăcintă
+
 <ro>
-Această pagină ține locul paginii principale în scopul de a testa funcționalitatea site-ului
+# Acesta este un test pentru a testa dacă merge titlul
+
+Acestea sunt **diferite** chestii *care* pot să ~~apară~~ inline.
+Uite încă un `test` pentru a testa inline code blocks.
+Aici este un exemplu de [hyperlink](https://example.com/)
+
+Ca să scrii **bold** trebuie să scrii \*\*așa\*\*
+Ca să scrii *italic* trebuie să scrii \*așa\*
+Ca să scrii un header, scrii
+\# așa 
+Ca să pui quote trebiue să scrii
+\> așa
+Ca să pui un [link](https://example.com) scrii \[link\]\(https://example.com\)
+Ca să pui o imagine, scrii !\[alt\]\(https://dirid.am/logo2.png\)
+
+* Acestea sunt bullet-uri
+* fain
+
+![logo](/logo2.png)
 </ro>
 <en>
-This page is a placeholder for the main page of the website meant to test the functionality of the website
+# This is a test to test whether or not headings work
+
+These are **different** things *that* may ~~appear~~ inline.
+Here's yet another `test` to see if inline code blocks are working.
+
+* These are bullet points
+* cool
+
+![logo](/logo2.png)
 </en>
