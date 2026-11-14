@@ -18,3 +18,22 @@ Ca întotdeauna, sunt de părere că e justificat ca un dicționar să includă 
 
 Și oricum cuvintele rare din dicționare sunt folosite… rar. Dacă ai lua toate cuvintele din dicționar (eu am o listă pe care o folosesc când programez ceva legat de limba română care are 282610 cuvinte) și le-ai ordona în ordinea folosirii lor, cel de la mijloc (141305), [ar reprezenta decat 1/141305 din limba vorbită](https://en.wikipedia.org/wiki/Zipf%27s_law), deci ar apărea cam de 5-6 ori într-o biblie.
 </ro>
+<en>
+# Drink
+
+A new day, a new word the Dicție.ro lady tries to slander.
+
+Throughout the end of the video, she says that besides „drink”, the verb „a drincui” also exists, which appears „in a slang dictionary” and about which she notes it's spelled with a "c" and not with a "k".
+
+Now, I understand that not everyone has two shelves worth of dictionaries at home and that for a publication such as Dicție.ro a physical dictionary is to big of an investment for it to be justified and that they are just looking word definitions up on dexonline (a Romanian dictionary agregator -TN).
+
+I wouldn't be surprised to find out they have downloaded the entirety of the data on Wiktionary and have automated the searching of Romanian words whose etymology mentions "from English" - they could develop a genuine conveyor belt of such posts.
+
+However, the 2020 edition of George Volceanov's Slang Dictionary also includes "a drinkui" in its form spelled with a "k". What dexonline uses for its "slang" category is the 2007 edition (I own both, they are among my favorite dictionaries).
+
+And still, forget the conveyor belt, but a SLANG dictionary?? There are so many witty terms in there that are obvious jokes (the dictionary even has the notation "Glum") (from "glumă" - "joke" -TN) so they aren't even worth mentioning in such a post. There are over 120 words in that dictionary for "penis" alone. (I recommend reading [this glossary of Romanian profanity on Wiktionary I contributed to](https://en.wiktionary.org/wiki/Appendix:Glossary_of_Romanian_profanity) .)
+
+As always, to my mind it's justified for a dictionary to include these two terms.
+
+And rare words in dictionaries are used... rarely anyways. Were you to take all the words in a dictionary (the list I use when I code something language-related has 282,610 Romanian words) and sort them by how frequently they get used, the one at the middle of the list (number 141305) would only account for 1/141305 of spoken language and so would appear about 5-6 times in a bible.
+</en>
